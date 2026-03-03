@@ -1,0 +1,38 @@
+{
+    "name": "usgc-themes-vscode",
+    "displayName": "USGC Themes for VS Code",
+    "description": "A collection of vibrant color schemes for VS Code inspired by semiconductor fabrication processes. Optimized for Monaspace fonts.",
+    "version": "1.0.2",
+    "publisher": "usgraphics",
+    "license": "SEE LICENSE IN LICENSE",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tgieruc/usgc-themes"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "USGC POLYIMIDE",
+                "uiTheme": "vs-dark",
+                "path": "./USGC-POLYIMIDE-VS.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "color-theme",
+        "dark-theme",
+        "light-theme",
+        "usgc",
+        "semiconductor",
+        "fabrication",
+        "monaspace",
+        "font-optimized"
+    ]
+}

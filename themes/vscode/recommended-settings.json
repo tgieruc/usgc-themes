@@ -1,0 +1,15 @@
+{
+  "editor.fontFamily": "'Monaspace Krypton', 'Monaspace Neon', 'Monaspace Argon', 'Monaspace Xenon', 'Monaspace Radon', 'Cascadia Code', 'Fira Code', 'SF Mono', Monaco, 'Cascadia Mono', 'Roboto Mono', monospace",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "400",
+  "terminal.integrated.fontFamily": "'Monaspace Krypton', 'Monaspace Neon', 'Monaspace Argon', 'Cascadia Code', 'SF Mono', Monaco, monospace",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.fontWeight": "400",
+  "scm.inputFontFamily": "'Monaspace Krypton', monospace",
+  "chat.editor.fontFamily": "'Monaspace Krypton', monospace",
+  "debug.console.fontFamily": "'Monaspace Krypton', monospace",
+  "editor.inlayHints.fontFamily": "'Monaspace Krypton', monospace",
+  "notebook.output.fontFamily": "'Monaspace Krypton', monospace",
+  "markdown.preview.fontFamily": "'Monaspace Krypton', -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif"
+}
